@@ -12,7 +12,6 @@ const projects = [
       "Interactive learning",
       "Product development"
     ],
-    "role": "Independent creator · product design and development",
     "year": "Live project",
     "url": "https://ai4poker.pages.dev/",
     "steps": [
@@ -32,10 +31,6 @@ const projects = [
       [
         "What I built",
         "A playable practice interface with virtual chips, a guided introduction, coaching, hand history and rules accessible from the table. The interface keeps the current hand and supporting explanations close together."
-      ],
-      [
-        "Design choice",
-        "A slower teaching mode and a step-by-step introduction let users read the situation before acting. The learning experience uses virtual chips."
       ]
     ],
     "gallery": [
@@ -62,7 +57,6 @@ const projects = [
       "Document workflow",
       "AI integration"
     ],
-    "role": "Independent creator · product design and development",
     "year": "Live project",
     "url": "https://one-stop-resume.onrender.com/",
     "steps": [
@@ -82,10 +76,6 @@ const projects = [
       [
         "What I built",
         "An upload-to-preview experience with file constraints, explicit processing consent, a template example, preview zoom controls and guidance for checking the generated document."
-      ],
-      [
-        "Product decisions",
-        "The tool focuses on structure and layout rather than automatically rewriting experience. Its interface explains processing and retention, and asks users to check names, dates, numbers and contact details. Scanned, image-only and encrypted PDFs are not supported."
       ]
     ],
     "gallery": [
